@@ -44,7 +44,6 @@
 # .idea/modules
 # *.iml
 # *.ipr
-# I added stuff here
 
 # CMake
 cmake-build-*/
